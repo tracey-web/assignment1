@@ -1,0 +1,1 @@
+Build the webpage for portfolio deliverable to look like the portfolio_deliverable.png image in the deliverables folder. The portfolio_copy.txt contains the text for that page.
